@@ -5,4 +5,7 @@ according to your operating system.
 You can download the javafx libray from https://gluonhq.com/products/javafx/ .
 You can see how to setup intellij according to your operating system from https://openjfx.io/openjfx-docs/ .
 
-Images Link
+ScreenShots:
+
+![](screenshots/Screenshot1.png)
+![](screenshots/Screenshot2.png)
